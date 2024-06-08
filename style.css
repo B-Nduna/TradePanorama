@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9; /* Light background for a clean look */
+}
+
+#chart {
+    width: 100%;
+    height: 100vh;
+}
+
+.tradingview-widget-container {
+    position: relative;
+    text-align: center;
+}
+
+.blue-text {
+    color: #007bff; /* Brand color for links or emphasis */
+    text-decoration: none;
+    font-weight: bold;
+}
